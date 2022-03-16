@@ -16,7 +16,7 @@ Programo a quase 1 ano e atualmente trabalho com:
 
 ### Meus projetos
 
-Ainda não possuo muitos projetos, atualmente estou trabalhando em meu projeto-piloto, o **[CredEasy](https://github.com/matheus-dresch/CredEasy)
+Ainda não possuo muitos projetos, atualmente estou trabalhando em meu projeto-piloto, o **[CredEasy](https://github.com/matheus-dresch/CredEasy)**
 
 Nele, utilizei até então as seguintes tecnologias:
 - HTML
