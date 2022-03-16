@@ -1,16 +1,27 @@
-### Hi there 👋
+### Bem-vindo! 😄
 
-<!--
-**matheus-dresch/matheus-dresch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou o Matheus, tenho 16 anos e aqui irei postar alguns dos meus projetos
 
-Here are some ideas to get you started:
+### Um pouco sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programo a quase 1 ano e atualmente trabalho com:
+- Javascript
+- HTML
+- CSS
+- PHP
+
+> Ainda estou estudando todas essas linguagens!
+
+***
+
+### Meus projetos
+
+Ainda não possuo muitos projetos, atualmente estou trabalhando em meu projeto-piloto, o **[CredEasy](https://github.com/matheus-dresch/CredEasy)
+
+Nele, utilizei até então as seguintes tecnologias:
+- HTML
+- CSS (Bootstrap)
+- JS (Vue.js)
+- PHP (Laravel)
+- SQL
+
